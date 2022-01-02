@@ -1,2 +1,2 @@
-# -IDCDC-MoviesApp
+# IDCDC-MoviesApp
 IDC-Movies
